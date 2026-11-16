@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 int main() //Must be "int main()", "not main()".
 {
     //Question 4
